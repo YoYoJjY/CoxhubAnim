@@ -4,6 +4,7 @@ local allowedHWIDs = {
     "7A1633DE-D656-4D0C-A6BC-E6A265281366",  -- cox pc
     "7c1f42e0-1299-4c7f-8a55-662904c9d579",  -- dashawn3245
     "26b6211b-1673-4da9-b787-97f79f107f22",  -- fool
+    "007d1ddc-fa80-48bc-8f38-f958c6f78e9b",  -- may
 }
 
 -- Function to check if the player's Client ID is allowed

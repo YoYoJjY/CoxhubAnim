@@ -1189,7 +1189,7 @@ openCloseButton.Parent = screenGui
 openCloseButton.MouseButton1Click:Connect(function()
     if scrollFrame.Visible then
         scrollFrame.Visible = false
-        openCloseButton.Text = "Troll Emotes"
+        openCloseButton.Text = "Combos"
     else
         scrollFrame.Visible = true
         openCloseButton.Text = "Close"

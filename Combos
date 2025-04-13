@@ -2,7 +2,7 @@
 local allowedHWIDs = {
     "76a12993-7f86-427c-a10e-56dbd5b216bb",  -- cox phone
     "7A1633DE-D656-4D0C-A6BC-E6A265281366",  -- cox pc
-    "3ee5928f-c386-4022-ab8d-6981455b9b59",  -- dashawn3245
+    "8020e918-c5c6-423a-98c9-8f8e58322658",  -- dashawn3245
     "26b6211b-1673-4da9-b787-97f79f107f22",  -- fool
     "ce28b63a-1369-4177-a1e3-34018131862f",  -- may
     "a96c198c-bb16-4669-8585-c0f8120c964b",  -- amirah

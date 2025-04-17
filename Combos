@@ -7,7 +7,7 @@ local allowedHWIDs = {
     "fe3d7afc-5b35-43d6-9467-a6449504377c",  -- may
     "a96c198c-bb16-4669-8585-c0f8120c964b",  -- amirah
     "4193a6d1-bf57-4b3d-b844-5e1232af42b7",  -- Jah
-    "5024baf7-493c-4a0c-a6f9-b7f4ea940045",  -- Mar
+    "fc963b89-3e36-4a87-947f-ff14557b0eca",  -- Mar
     "7d74a583-01ea-4368-ba0c-0bc8be08e534",  -- winner
 }
 -- Function to check if the player's Client ID is allowed
